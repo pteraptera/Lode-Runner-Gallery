@@ -3,12 +3,12 @@
 
 <table>
 <tr><td>
-This repository is a tribute to the classic video game <a href="https://en.wikipedia.org/wiki/Lode_Runner">Lode Runner</a>, the Sierra variants in particular published in 1990's.   
+This repository is a tribute to the classic video game <a href="https://en.wikipedia.org/wiki/Lode_Runner">Lode Runner</a>, the Presage/Sierra variants in particular published in 1990's.   
 <br><br>
 Twin goals: showcasing uniqueness and beauty of LR levels, and providing the fan community with gold (pun intended!) data on officially released game levels. 
 </td>
 <td width=490><img src="LRO_MMR_1P/pngs_labeled/LRO_MMR_1P - 014 - MOSS - STRANGE ATTRACTION.png" alt="Strange Attraction" width=480><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; <em>Can you identify this level? Bet you can (now)!</em> <!-- center tag does not work on GitHub -->
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; <em>Where have I seen this level...? Wonder no more!</em> <!-- center tag does not work on GitHub -->
 </td>
 </tr>
 </table>
@@ -37,7 +37,7 @@ Below works on GitHub, but impossible to put caption
 
 
 **WHAT:**<br>
-Screenshots of individual levels, data points on levels (origin, 1-player vs. 2-player, "world" information, and title), trivia, pointers to walkthroughs. 
+Screenshots of individual levels, data points (origin, 1-player vs. 2-player, "world" information, and title), trivia, pointers to walkthroughs. Essentially a catalog of official LR levels.
 
 **WHY:**<br>
 What makes Lode Runner so awesome is ingeniousness of individual levels, each of which constitutes a puzzle to solve, yet there hasn't been an easy "internet way" to reference them. With this repository, I finally can! 
@@ -89,7 +89,7 @@ Level trivia was sourced from fan sites (Jason Summer, etc.) and more.
 -->
 
 ## Data Specs
-Each level pack comes with some/all of the following data files (`LRO_MMR_1P` as example): 
+Each level pack comes with most/all of the following data files (`LRO_MMR_1P` as example): 
 
 | file/directory | content |
 | --- | --- |
@@ -97,7 +97,7 @@ Each level pack comes with some/all of the following data files (`LRO_MMR_1P` as
 | [`level_data.tsv`](LRO_MMR_1P/level_data.tsv) 	| 4 columns: pack ID, level #, world ID, title |
 | [`level_data_SUPPL.tsv`](LRO_MMR_1P/level_data_SUPPL.tsv) | Contains supplementary information on levels. Currently 3 columns: trivia, two walkthrough sources.  
 | [`pngs/`](LRO_MMR_1P/pngs) | Level images in png format: `001.png`, `172.png`, etc.  |
-| [`pngs_labeled/`](LRO_MMR_1P/pngs_labeled) | Images are labeled with level-identifying info at the bottom and have a long, descriptive name: `LRO_MMR_1P - 172 - REEF - CAN YOU FIND A SHORTCUT.png` (Special characters `?!<>"` and trailing punctuation such as `...` are stripped.) |
+| [`pngs_labeled/`](LRO_MMR_1P/pngs_labeled) | Images are labeled with level-identifying info at the bottom and have a long, descriptive name: <a href="LRO_MMR_1P/pngs_labeled/LRO_MMR_1P - 172 - REEF - CAN YOU FIND A SHORTCUT.png">`LRO_MMR_1P - 172 - REEF - CAN YOU FIND A SHORTCUT.png`</a> (Special characters `?!<>"` and trailing punctuation such as `...` are stripped.) |
 | [`pngs_schema/`](LRO_MMR_1P/pngs_schema) | Schematics of each level, named `001_s.png`, `172_s.png`, etc.  |
 
 **World ID code**: <br>
