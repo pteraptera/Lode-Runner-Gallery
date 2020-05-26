@@ -59,7 +59,7 @@ Level trivia was sourced from fan sites (Jason Summer, etc.) and more.
 ### Lode Runner Online: Mad Monks' Revenge (`LRO_MMR`, 1995)
 
 - [One-player level pack](LRO_MMR_1P/) (`1P`, 187 levels; [browse all levels here](LRO_MMR_1P/index.md)) 
-- [wo-player level pack (`2P`, 150 levels)
+- [Two-player level pack](LRO_MMR_2P/) (`2P`, 150 levels)
 - [Secret Easter-egg levels](LRO_MMR_EE1P/) (`EE1P`, 5 levels; [browse all levels here](LRO_MMR_EE1P/index.md))
 
 ### Lode Runner: The Legend Returns (`LR_TLR`, 1994)
