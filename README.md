@@ -59,8 +59,8 @@ Level trivia was sourced from fan sites (Jason Summer, etc.) and more.
 ### Lode Runner Online: Mad Monks' Revenge (`LRO_MMR`, 1995)
 
 - [One-player level pack](LRO_MMR_1P/) (`1P`, 187 levels; [browse all levels here](LRO_MMR_1P/index.md)) 
-- Two-player level pack (`2P`, 150 levels)
-- [Secret Easter-egg levels](LRO_MMR_EE1P) (`EE1P`, 5 levels; [browse all levels here](LRO_MMR_EE1P/index.md))
+- [wo-player level pack (`2P`, 150 levels)
+- [Secret Easter-egg levels](LRO_MMR_EE1P/) (`EE1P`, 5 levels; [browse all levels here](LRO_MMR_EE1P/index.md))
 
 ### Lode Runner: The Legend Returns (`LR_TLR`, 1994)
 
@@ -69,9 +69,9 @@ Level trivia was sourced from fan sites (Jason Summer, etc.) and more.
 
 ### Lode Runner Extra (`LR_EXTRA`, 1997, originally released on PlayStation)
 
-- One-player level pack (`1P`, 110 levels; [browse all levels here](LR_EXTRA_1P/index.md))
-- Two-player level pack (`2P`, 20 levels; [browse all levels here](LR_EXTRA_2P/index.md))
-- Bonus levels (`BN1P`, 6 levels; also called "FORTEST"; [browse all levels here](LR_EXTRA_BN1P/index.md))
+- [One-player level pack](LR_EXTRA_1P) (`1P`, 110 levels; [browse all levels here](LR_EXTRA_1P/index.md))
+- [Two-player level pack](LR_EXTRA_2P) (`2P`, 20 levels; [browse all levels here](LR_EXTRA_2P/index.md))
+- [Bonus levels](LR_EXTRA_BN1P/) (`BN1P`, 6 levels; also called "FORTEST"; [browse all levels here](LR_EXTRA_BN1P/index.md))
 
 <!--
 
