@@ -3,7 +3,7 @@
 
 <table>
 <tr><td>
-This repository is a tribute to the classic video game <a href="https://en.wikipedia.org/wiki/Lode_Runner">Lode Runner</a>, the Presage/Sierra variants in particular published in 1990's.   
+This repository is a tribute to the classic video game <a href="https://en.wikipedia.org/wiki/Lode_Runner"><em>Lode Runner</em></a>, the Presage/Sierra variants in particular published in 1990's.   
 <br><br>
 Twin goals: showcasing uniqueness and beauty of LR levels, and providing the fan community with gold (pun intended!) data on officially released game levels. 
 </td>
@@ -48,9 +48,9 @@ How about <a href="LRO_MMR_1P/pngs_labeled/LRO_MMR_1P - 166 - REEF - MONK RAIN.p
 
 **HOW:**<br>
 Screenshots were taken on [_Lode Runner: The Legend Returns_](https://en.wikipedia.org/wiki/Lode_Runner:_The_Legend_Returns) (1994) and [_Lode Runner Online: Mad Monks' Revenge_](https://en.wikipedia.org/wiki/Lode_Runner_Online:_The_Mad_Monks%27_Revenge) (1995), emulated and patched to run on Windows 10. 
-Apart from `LR_TLR`, all screenshots were taken on _Lode Runner Online_ (1995), including on the level packs originally published on a different platform (Apple II, PlayStation, etc.). They were produced using LRO-compatible `.pzl`copies, which were ported by fan community. Screenshots for such packs therefore may deviate from their original, "native" forms. 
+Apart from `LR_TLR`, all screenshots were taken on _Lode Runner Online_ (1995), including on the level packs originally published on a different platform (PlayStation, etc.). They were produced using LRO-compatible `.pzl`copies, which were ported by fan community. Screenshots for such packs therefore may deviate from their original, "native" forms. 
 Level titles and other additional information were scraped or keyed in by myself. 
-Level trivia was sourced from fan sites (Jason Summer, etc.) and more. 
+Level trivia was sourced from fan sites (Jason Summers, etc.) and more. 
 
 
 
