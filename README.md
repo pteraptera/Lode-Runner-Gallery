@@ -7,7 +7,9 @@ This repository is a tribute to the classic video game <a href="https://en.wikip
 <br><br>
 Twin goals: showcasing uniqueness and beauty of LR levels, and providing the fan community with gold (pun intended!) data on officially released game levels. 
 </td>
-<td width=490><img src="LRO_MMR_1P/pngs_labeled/LRO_MMR_1P - 014 - MOSS - STRANGE ATTRACTION.png" alt="Strange Attraction" width=480><br>
+<td width=490>
+<img src="LRO_MMR_2P/pngs_labeled/LRO_MMR_2P - 134 - FUNG - X MARKS THE SPOT.png" alt="X Marks..." width=480><br>
+<!-- <img src="LRO_MMR_1P/pngs_labeled/LRO_MMR_1P - 014 - MOSS - STRANGE ATTRACTION.png" alt="Strange Attraction" width=480><br> -->
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; <em>Where have I seen this level...? Wonder no more!</em> <!-- center tag does not work on GitHub -->
 </td>
 </tr>
@@ -56,31 +58,34 @@ Level trivia was sourced from fan sites (Jason Summers, etc.) and more.
 
 ## Releases
 
-### Lode Runner Online: Mad Monks' Revenge (`LRO_MMR`, 1995)
-
-- [One-player level pack](LRO_MMR_1P/) (`1P`, 187 levels; [browse all levels here](LRO_MMR_1P/index.md)) 
-- [Two-player level pack](LRO_MMR_2P/) (`2P`, 150 levels)
-- [Secret Easter-egg levels](LRO_MMR_EE1P/) (`EE1P`, 5 levels; [browse all levels here](LRO_MMR_EE1P/index.md))
-
 ### Lode Runner: The Legend Returns (`LR_TLR`, 1994)
+It had 150 one-player levels. They were later included in `LRO_MMR_1P` (listed below) which added 37 more levels. 
 
-- _150 one-player levels are included in_ `LRO_MMR_1P`
 - [Two-player level pack](LR_TLR_2P/) (`2P`, 30 levels; [browse all levels here](LR_TLR_2P/index.md))
 
-### Lode Runner Extra (`LR_EXTRA`, 1997, originally released on PlayStation)
+### Lode Runner Online: Mad Monks' Revenge (`LRO_MMR`, 1995)
+The pinnacle of Presage's Lode Runner! 
+
+- [One-player level pack](LRO_MMR_1P/) (`1P`, 187 levels; [browse all levels here](LRO_MMR_1P/index.md)) 
+- [Two-player level pack](LRO_MMR_2P/) (`2P`, 150 levels; [browse all levels here](LRO_MMR_2P/index.md))
+- [Secret Easter-egg levels](LRO_MMR_EE1P/) (`EE1P`, 5 levels; [browse all levels here](LRO_MMR_EE1P/index.md))
+
+### Lode Runner Extra (`LR_EXTRA`, 1997)
+Originally [released on PlayStation](https://www.mobygames.com/game/lode-runner-extra). Not for beginners! 
 
 - [One-player level pack](LR_EXTRA_1P) (`1P`, 110 levels; [browse all levels here](LR_EXTRA_1P/index.md))
 - [Two-player level pack](LR_EXTRA_2P) (`2P`, 20 levels; [browse all levels here](LR_EXTRA_2P/index.md))
 - [Bonus levels](LR_EXTRA_BN1P/) (`BN1P`, 6 levels; also called "FORTEST"; [browse all levels here](LR_EXTRA_BN1P/index.md))
 
-<!--
 
-### Lode Runner 2 SuperLite 1500 (`LR2_SLITE`, 2000, originally released on PlayStation as a special-edition re-issue of `LR_EXTRA`)
+### Lode Runner 2, SuperLite 1500 Series (`LR2_SPLITE`, 2000)
+Originally [released on PlayStation](https://www.video-games-museum.com/en/game/SuperLite-1500-Series-Lode-Runner-2/31/2/22383) as a budget-edition (only &#165;1500!) reissue of `LR_EXTRA`. It reprised all of `LR_EXTRA` levels plus some new ones.  
+
 - One-player level pack (`1P`, 23 additional levels after 110 from `LR_EXTRA_1P`)
 - Two-player level pack (`2P`, 3 additional levels after 20 from `LR_EXTRA_2P`)
-- _6 bonus levels are the same as_ `LR_EXRA_BN1P`
-- THANKS pack (`TH1P`, 66 levels)
+- THANKS pack (`THxP`, 66 one- and two-player levels)
 
+<!--
 ### Lode Runner (Original, 1983)
 - One-player (150 levels)
 
