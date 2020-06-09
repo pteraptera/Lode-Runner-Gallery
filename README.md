@@ -81,8 +81,8 @@ Originally [released on PlayStation](https://www.mobygames.com/game/lode-runner-
 ### Lode Runner 2, SuperLite 1500 Series (`LR2_SLITE`, 2000)
 Originally [released on PlayStation](https://www.video-games-museum.com/en/game/SuperLite-1500-Series-Lode-Runner-2/31/2/22383) as a budget-edition (only &#165;1500!) reissue of `LR_EXTRA`. It reprised all of `LR_EXTRA` levels plus some new ones.  
 
-- [One-player level pack](LR2_SLITE_1P) (`1P`, [23 additional levels](LR2_SLITE_1P/index.md) after 110 from `LR_EXTRA_1P`)
-- Two-player level pack (`2P`, 3 additional levels after 20 from `LR_EXTRA_2P`)
+- [One-player level pack](LR2_SLITE_1P) (`1P`, [23 additional levels](LR2_SLITE_1P/index.md) after [110](LR_EXTRA_1P/index.md) from `LR_EXTRA_1P`)
+- [Two-player level pack](LR2_SLITE_2P) (`2P`, [3 additional levels](LR2_SLITE_2P/index.md) after [20](LR_EXTRA_2P/index.md) from `LR_EXTRA_2P`)
 - THANKS pack (`THxP`, 66 mostly one-player levels)
 
 <!--
