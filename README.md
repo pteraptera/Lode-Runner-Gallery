@@ -71,19 +71,19 @@ The pinnacle of Presage's Lode Runner!
 - [Secret Easter-egg levels](LRO_MMR_EE1P/) (`EE1P`, 5 levels; [browse all levels here](LRO_MMR_EE1P/index.md))
 
 ### Lode Runner Extra (`LR_EXTRA`, 1997)
-Originally [released on PlayStation](https://www.mobygames.com/game/lode-runner-extra). Not for beginners! 
+Originally [released on PlayStation](https://www.mobygames.com/game/lode-runner-extra) with all-new levels. Not for beginners! 
 
 - [One-player level pack](LR_EXTRA_1P) (`1P`, 110 levels; [browse all levels here](LR_EXTRA_1P/index.md))
 - [Two-player level pack](LR_EXTRA_2P) (`2P`, 20 levels; [browse all levels here](LR_EXTRA_2P/index.md))
 - [Bonus levels](LR_EXTRA_BN1P/) (`BN1P`, 6 levels; also called "FORTEST"; [browse all levels here](LR_EXTRA_BN1P/index.md))
 
 
-### Lode Runner 2, SuperLite 1500 Series (`LR2_SPLITE`, 2000)
+### Lode Runner 2, SuperLite 1500 Series (`LR2_SLITE`, 2000)
 Originally [released on PlayStation](https://www.video-games-museum.com/en/game/SuperLite-1500-Series-Lode-Runner-2/31/2/22383) as a budget-edition (only &#165;1500!) reissue of `LR_EXTRA`. It reprised all of `LR_EXTRA` levels plus some new ones.  
 
-- One-player level pack (`1P`, 23 additional levels after 110 from `LR_EXTRA_1P`)
+- [One-player level pack](LR2_SLITE_1P) (`1P`, [23 additional levels](LR2_SLITE_1P/index.md) after 110 from `LR_EXTRA_1P`)
 - Two-player level pack (`2P`, 3 additional levels after 20 from `LR_EXTRA_2P`)
-- THANKS pack (`THxP`, 66 one- and two-player levels)
+- THANKS pack (`THxP`, 66 mostly one-player levels)
 
 <!--
 ### Lode Runner (Original, 1983)
