@@ -66,8 +66,8 @@ It had 150 one-player levels. They were later included in `LRO_MMR_1P` (listed b
 ### Lode Runner Online: Mad Monks' Revenge (`LRO_MMR`, 1995)
 The pinnacle of Presage's Lode Runner! 
 
-- [One-player level pack](LRO_MMR_1P/) (`1P`, 187 levels; [browse all levels here](LRO_MMR_1P/index.md)) 
 - [Two-player level pack](LRO_MMR_2P/) (`2P`, 150 levels; [browse all levels here](LRO_MMR_2P/index.md))
+- [One-player level pack](LRO_MMR_1P/) (`1P`, 187 levels; [browse all levels here](LRO_MMR_1P/index.md)) 
 - [Secret Easter-egg levels](LRO_MMR_EE1P/) (`EE1P`, 5 levels; [browse all levels here](LRO_MMR_EE1P/index.md))
 
 ### Lode Runner Extra (`LR_EXTRA`, 1997)
@@ -83,7 +83,7 @@ Originally [released on PlayStation](https://www.video-games-museum.com/en/game/
 
 - [One-player level pack](LR2_SLITE_1P) (`1P`, [23 additional levels](LR2_SLITE_1P/index.md) after [110](LR_EXTRA_1P/index.md) from `LR_EXTRA_1P`)
 - [Two-player level pack](LR2_SLITE_2P) (`2P`, [3 additional levels](LR2_SLITE_2P/index.md) after [20](LR_EXTRA_2P/index.md) from `LR_EXTRA_2P`)
-- THANKS pack (`THxP`, 66 mostly one-player levels)
+- [THANKS pack](LR2_SLITE_THxP) (`THxP`, [66 mostly one-player levels](LR2_SLITE_THxP/index.md))
 
 <!--
 ### Lode Runner (Original, 1983)
