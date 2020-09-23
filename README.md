@@ -1,7 +1,9 @@
 Of course reject this pull request - I am just trying to contact you with a few questions.
 
+update on this one: I have found the puzzles now - they were in a different directory than another set that is included.
 First, thanks for the nice work here.  So I see you have many of the different puzzle sets from different versions of LodeRunner.  I had previously had LegendReturns and MMR but cannot get the embedded puzzles there or at least don't know how to access them.  I assume they are hardcoded into the program.  I have been to the MMR rewrite site, but I have never seen the extra puzzles in those downloads.  I am wondering where I can get all the puzzle sets you list here.  I suppose it is not possible to include them in the actual repository you have due to copyright or something.  My email is same as github account name at yahoo dot com.
 
+update here 120 of 150 are complete for professional levels.  Not all are solvable with MMR even with Classic rules turned on.  I think there may be some other things Quark has missed and certainly the timing of MMR is changed regarding how fast you can run/dig versus how long the turf remains blasted away.
 I found a site that has some of the Professional, Championship, Revenge puzzles for the Classic LR version though in a format that won't work for MMR.  The Championship puzzles have been available in MMR format for some time, but I have never seen the others.  I am currently taking the Pro ones and creating them in MMR. just over 2/3 the way complete though not all are solvable with the MMR rules.  I am changing some of them that are obviously not solvable but haven't tried everyone to make sure.  Might be able to create the screenshots and schmatics like you have here also if you are interested.  That looks to me like you took a great deal of time to do what you have here. Again, Thanks!
 
 
